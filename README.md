@@ -1,5 +1,5 @@
 # AEM-Lk
-##Automation of Kinetic Inductance Extraction of MKID Simulations.
+## Automation of Kinetic Inductance Extraction of MKID Simulations.
 
 This app allows the __automation of kinetic inductance__ value from Sonnet geometry files based on measured resonant frequencies.  
 
