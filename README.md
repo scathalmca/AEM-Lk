@@ -27,6 +27,7 @@ Once the file is uploaded, choose the **accuracy** of the kinetic inductance val
 **0.001 pH/sq**. 
 
 The script will then simulate each original Sonnet file and begin adjusting the kinetic inductance value of each to match measured resonant frequencies.  
+Make sure the original Sonnet geometry files are in your current path in Matlab.
 
 
 <img width="498" alt="AEMLKGUI" src="https://github.com/scathalmca/AEM-Lk/assets/92909628/e65fb3dc-20e8-4830-a4d6-30b5bbd0b54d">
