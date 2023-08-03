@@ -34,9 +34,14 @@ The script will then simulate each original Sonnet file and begin adjusting the 
 The script will output a text file called "Kinetic Inductance Data.txt" containing:  
 
 
-**Time taken for automation:**  
+**Runtime of Automation:**  
 
-**Average Lk:**  
+**Number of Simulations Performed:**
+
+**Accuracy of Lk**
+
+
+**Mean Lk:**  
 
 **Lk standard deviation:**  
 
@@ -44,7 +49,9 @@ The script will output a text file called "Kinetic Inductance Data.txt" containi
 
 **Measured resonant frequencies:**  
 
-**Simulated Corrected resonant frequency:**  
+**Simulated Corrected resonant frequencies:**  
+
+**Lk Values:** 
 
 **Simulated Corrected $Q_{C}$:**  
 
