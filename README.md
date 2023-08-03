@@ -31,7 +31,7 @@ The script will then simulate each original Sonnet file and begin adjusting the 
 
 <img width="498" alt="AEMLKGUI" src="https://github.com/scathalmca/AEM-Lk/assets/92909628/e65fb3dc-20e8-4830-a4d6-30b5bbd0b54d">
 
-The script is output a text file called "Kinetic Inductance Data.txt" containing:  
+The script will output a text file called "Kinetic Inductance Data.txt" containing:  
 
 
 **Time taken for automation:**  
