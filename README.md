@@ -1,6 +1,7 @@
 # AEM-Lk
 ## Automation of Kinetic Inductance Extraction of MKID Simulations.
 
+** This is the old version of AEM Lk and my contain many bugs, errors and crashes. Please see AEM Lk v2 for an updated version of the code**
 This app allows the __automation of kinetic inductance__ value from Sonnet geometry files based on measured resonant frequencies.  
 
 This app is primarily focused towards **prototyping MKIDs**.    
