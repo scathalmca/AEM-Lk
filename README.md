@@ -1,7 +1,7 @@
 # AEM-Lk
 ## Automation of Kinetic Inductance Extraction of MKID Simulations.
 
-# **This is the old version of AEM Lk and my contain many bugs, errors and crashes. Please see AEM Lk v2 for an updated version of the code. Thanks :) **
+# **This is the old version of AEM Lk and my contain many bugs, errors and crashes. Please see AEM Lk v2 for an updated version of the code. Thanks :)**
 
 
 
