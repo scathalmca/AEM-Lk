@@ -35,7 +35,8 @@ The script will then simulate each original Sonnet file and begin adjusting the 
 Make sure the original Sonnet geometry files are in your current path in Matlab.
 
 
-<img width="498" alt="AEMLKGUI" src="https://github.com/scathalmca/AEM-Lk/assets/92909628/e65fb3dc-20e8-4830-a4d6-30b5bbd0b54d">
+![AEM Lk](https://github.com/user-attachments/assets/fb532b6c-291f-4465-b3b1-b53c35c63a6e)
+
 
 The script will output a text file called "Kinetic Inductance Data.txt" containing:  
 
